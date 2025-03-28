@@ -137,11 +137,12 @@ a:hover {
 	color: blue;
 }
 
-table {border-collapse: collapse;}
-th, td {border: 1px solid black; padding: 5px;}
-td:nth-last-child(1) {text-align: left; width: 75%;}
-td:nth-last-child(2) {text-align: right; width: 15%;}
-td:nth-last-child(3) {text-align: center; width: 10%;}
+table.road_map {border-collapse: collapse;}
+table.road_map th {border: 1px solid black; padding: 5px;}
+table.road_map td {border: 1px solid black; padding: 5px;}
+table.road_map td:nth-last-child(1) {text-align: left; width: 75%;}
+table.road_map td:nth-last-child(2) {text-align: right; width: 15%;}
+table.road_map td:nth-last-child(3) {text-align: center; width: 10%;}
 
 /*listy w road mapie*/
 
