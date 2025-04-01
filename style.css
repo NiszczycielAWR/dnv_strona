@@ -17,6 +17,7 @@ nav{
 	width: 100%;
 	border: 0px solid black;
 	height: auto;
+ padding: 0% 0%;
 	position: block;
 	background:url(img/blat.jpg);
 	background-repeat:no-repeat;
