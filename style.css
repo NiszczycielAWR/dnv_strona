@@ -10,9 +10,6 @@ body {
 div.logo{
 	padding: 0% 0%;
 	margin: 0% 0%;
-	background-image: url(img/blat.jpg); 
-	background-repeat: no-repeat;
-	background-size: 100% auto;
 }
 nav{
 	position: fixed;
