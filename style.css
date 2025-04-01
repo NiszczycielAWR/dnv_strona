@@ -4,7 +4,7 @@ body {
 	background-attachment: scroll, scroll, scroll, scroll, fixed, fixed;
 	background-repeat: repeat-y,repeat-y, repeat-y, repeat-y, no-repeat, no-repeat;
 	background-position: 87% 0%, 13% 0%, center, center, left bottom, right bottom;
-	background-size: 5% auto, 5% auto,64% auto, 70% 100%, 15% 100%, 15% 100%;
+	background-size: 5% auto, 5% auto,64% auto, 70% 100%, 15% 96%, 15% 96%;
 
 }
 div.logo{
